@@ -19,7 +19,7 @@
 <br />
 <b>Описание:</b> Vpn Reconnector - программа для автоматического подключения и переподключения к VPN в ОС Windows. Для автоматичевкого запуска нужно добавить программу в автозапуск операционной системы. При запуске программа может отправить письмо на электронную почту (например с информацией о перезагрузке).
 <br /><br />
-<b>Dowload:<a href="https://disk.yandex.ru/d/ahX1wZBoHvOPfA">Download ZIP file</a></b>
+<b>Dowload: <a href="https://disk.yandex.ru/d/ahX1wZBoHvOPfA">Download ZIP file</a></b>
 <br /><br />
 <img src="https://sun9-67.userapi.com/impg/mS6VfP_lSecSJlu6VEdd-urJAIeGCRieKaVFDg/m-Zoi4wwdC0.jpg?size=336x452&quality=96&sign=91ed53ba14567e61a8515922d6d77457&type=album" alt="" />
 <img src="https://sun9-86.userapi.com/impg/IVNkegivG-leIqdRvWg6KuiGWFqYYqL2cvXcTg/zU-Y5fzwOqA.jpg?size=336x452&quality=96&sign=5d60aad8ef312f56f8b502b170555872&type=album alt="" />
