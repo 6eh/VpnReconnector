@@ -4,7 +4,7 @@
     <h2>Common readme</h2>
 </div>
 <hr />
-<b>Platform:</b> C#, .NET 6
+<b>Platform:</b> C#, .NET CORE 6
 <br />
 <b>NuGets:</b>
 <div style="margin-left: 20px">
